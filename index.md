@@ -4,3 +4,6 @@
 
 ## Bonus Assignment
 [Property Report](https://pjournal.github.io/mef04-idilkylmz/Bonus-Assignment.html)
+
+## Assignment 2
+[Electricity Report](https://pjournal.github.io/mef04-idilkylmz/Assignment-2.html)
