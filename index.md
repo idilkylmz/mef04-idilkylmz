@@ -1,8 +1,8 @@
 ## Python Exercises
 
-[Birthday Calculator](https://replit.com/@idilkylmz/Idils-Python?v=1)
-
 [Get Trending News](https://replit.com/@idilkylmz/Trending-News?v=1)
+
+[Birthday Calculator](https://replit.com/@idilkylmz/Idils-Python?v=1)
 
 ## Assignment 1
 
